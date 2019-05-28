@@ -22,7 +22,7 @@ Cortex-A5 处理器可为现有的 ARM926EJ-S 和 ARM1176JZ-S 处理器设计提
 ###  [收录芯片](https://github.com/sochub)
 
 * [RDA8810](https://github.com/sochub/RDA8810)
-* [ATSAMA5D35](https://github.com/sochub/ATSAMA5D35)
+* [SAMA5D3](https://github.com/sochub/SAMA5D3)
 
 ###  [SoC资源平台](http://www.qitas.cn)
 
