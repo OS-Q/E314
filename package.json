@@ -1,0 +1,7 @@
+{
+    "name": "STM32H7xx_HAL_Driver",
+    "description": "ST Cortex M7 400MHz MCU",
+    "system": "*",
+    "url": "https://github.com/SoCXin/STM32H7xx_HAL_Driver",
+    "version": "1.5.0"
+}
